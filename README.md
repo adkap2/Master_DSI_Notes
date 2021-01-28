@@ -59,3 +59,10 @@ def factorial(n):
 # hand coded algorithm
 ```
 
+-----------------------------
+# Markdown
+
+
+
+# `matplotlib.pyplot` visualizations
+
