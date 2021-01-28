@@ -66,3 +66,6 @@ def factorial(n):
 
 # `matplotlib.pyplot` visualizations
 
+## Images
+![The Road Map](https://www.mrdbourke.com/content/images/2020/07/ml-roadmap-blog-post-header.png)
+
